@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 .Net Developer<br>⚡ M&Y Yazılımm Eğitim Akedemi Danışmanlık<br>🤝 Sinop University<br>
+🔭 .Net Core Developer<br>⚡ M&Y Yazılımm Eğitim Akedemi Danışmanlık<br>🤝 Sinop University<br>
 
 
 ## 🌐 Socials:
